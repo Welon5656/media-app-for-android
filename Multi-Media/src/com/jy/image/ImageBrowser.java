@@ -1,7 +1,7 @@
 package com.jy.image;
 
-import com.jy.multi_media.MainActivity;
 import com.jy.multi_media.R;
+import com.jy.multimedia.MainActivity;
 
 import java.util.List;
 

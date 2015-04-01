@@ -1,4 +1,6 @@
-package com.jy.multi_media;
+package com.jy.multimedia;
+
+import com.jy.multi_media.R;
 
 import android.app.Activity;
 import android.database.Cursor;

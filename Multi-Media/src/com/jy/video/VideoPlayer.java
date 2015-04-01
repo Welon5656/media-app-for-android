@@ -1,7 +1,7 @@
 package com.jy.video;
 
-import com.jy.multi_media.MainActivity;
 import com.jy.multi_media.R;
+import com.jy.multimedia.MainActivity;
 
 import java.io.File;
 import java.util.List;

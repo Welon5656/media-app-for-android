@@ -1,6 +1,7 @@
-package com.jy.multi_media;
+package com.jy.multimedia;
 
 import com.jy.image.ImageActivity;
+import com.jy.multi_media.R;
 import com.jy.music.MusicActivity;
 import com.jy.video.VideoActivity;
 

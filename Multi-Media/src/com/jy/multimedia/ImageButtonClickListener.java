@@ -1,4 +1,4 @@
-package com.jy.multi_media;
+package com.jy.multimedia;
 
 import android.app.Activity;
 import android.content.Context;
